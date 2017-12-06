@@ -4,9 +4,9 @@
 
 現在、ちょいと引っ越し＆「The Grand coffee」と店名が変更になったようです。
 
-https://www.thegrandcoffee.com/会社概要/
+(https://www.thegrandcoffee.com/会社概要/)
 
-https://www.facebook.com/takumi.thegrandcoffee/
+(https://www.facebook.com/takumi.thegrandcoffee/)
 
 まだ、新店舗の「The Grand coffee」には行ってないのですが...F cafe net時代の思い出話になってしまいますが、当時のお店の雰囲気をご紹介します。
 
@@ -51,7 +51,7 @@ https://www.facebook.com/takumi.thegrandcoffee/
 - とにかく店員さんの語彙力がすごい、説明を聞いているだけでイメージが湧く、しかし試飲は常にその上を行く美味さ
 -- 感動します。マジで。
 - F Cafe Net 時代のレポートを発見
--- https://tanike.theblog.me/posts/3352793
+-- (https://tanike.theblog.me/posts/3352793)
 
 ## まとめ
 
@@ -63,8 +63,10 @@ JR福井駅についたら、タクシー乗り場で「成和のハニー（※
 （福井ICからも同じくらいの距離です）
 
 ### ギフトも良いぞ
-https://www.facebook.com/takumi.thegrandcoffee/posts/1531033456984140
-https://www.thegrandcoffee.com/ギフト/
+
+(https://www.facebook.com/takumi.thegrandcoffee/posts/1531033456984140)
+
+(https://www.thegrandcoffee.com/ギフト/)
 
 越前がにも良いけど、福井のコーヒーも良いぞ！
 
