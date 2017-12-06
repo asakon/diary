@@ -65,7 +65,7 @@ JR福井駅についたら、タクシー乗り場で「成和のハニー（※
 
 [ギフト - The Grand coffee珈琲豆専門店・ＣＡＦＥ](https://www.thegrandcoffee.com/ギフト/)
 
-越前がにも良いけど、福井のコーヒーも良いぞ！
+**越前がにも良いけど、福井のコーヒーも良いぞ！**
 
 ---
 Coffee Advent Calender 2017
