@@ -1,14 +1,14 @@
 # The Grand coffee（福井市のコーヒー豆専門店）の前身のカフェの思い出話
 
-３年ほど前に、私は福井県福井市に住んでいたのですが、近所に、とても気に入っているコーヒー豆のお店がありました。
-「F cafe net」というお店です。
+３年ほど前に、私は福井県福井市に住んでいたのですが、近所に、とても気に入っているコーヒー豆のお店がありました。「F cafe net」というお店です。
 
 現在、ちょいと引っ越し＆「The Grand coffee」と店名が変更になったようです。
+
 https://www.thegrandcoffee.com/会社概要/
+
 https://www.facebook.com/takumi.thegrandcoffee/
 
-まだ、新店舗の「The Grand coffee」には行ってないのですが...
-F cafe net時代の思い出話になってしまいますが、当時のお店の雰囲気をご紹介します。
+まだ、新店舗の「The Grand coffee」には行ってないのですが...F cafe net時代の思い出話になってしまいますが、当時のお店の雰囲気をご紹介します。
 
 ## F cafe net に初めて行ったとき
 
