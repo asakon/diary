@@ -43,12 +43,11 @@
 - 即物的：フロントのことを考えてAPI設計をバックの人と一緒にする
 - 将来的：長く続いている概念を知る　＞　コスパ良
 - Node.jsのAPIは低レイヤをラップしてるだけ。コアコードはJSなので読める、なんとなく見えてくるものがある。Linux,プロトコルが分かるようになる。
-- 社内勉強会：Node.jsのコアコミッタが社内にいる、ちょっとでも変なことを言うと怒られる(笑)勉強会 > [Node.jsのコミッターを迎え、炎の特訓—Node.js社内勉強会はこうして始まった - linotice＊ | Yahoo! JAPAN RECRUITMENT](https://linotice.tumblr.com/post/166348035844/20171013)
+- 社内勉強会：Node.jsのコアコミッタが社内にいる、ちょっとでも変なことを言うと怒られる(笑)勉強会 > [Node.jsのコミッターを迎え、炎の特訓—Node.js社内勉強会はこうして始まった - linotice＊ Yahoo! JAPAN RECRUITMENT](https://linotice.tumblr.com/post/166348035844/20171013)
 
 ### まとめ
 - 概念を知れば技術が死んでも生き残れる
-- Node.jsサポートチームのブログもあるよ！
-- Node.jsカテゴリの記事一覧 - Yahoo! JAPAN Tech Blog(https://techblog.yahoo.co.jp/javascript/nodejs/)
+- Node.jsサポートチームのブログもあるよ！[Node.jsカテゴリの記事一覧 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/javascript/nodejs/)
 
 
 ## 古川さん＠リクルートテクノロジーズ
