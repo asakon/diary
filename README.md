@@ -1,5 +1,6 @@
 # diary
-つれづれ
+
+つれづれに書く何か
 
 https://asakon.github.io/diary/
 
