@@ -1,4 +1,6 @@
-# diary 
+# diary
+
+たまーに書くブログです
 
 ## pages
 
