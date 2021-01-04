@@ -9,6 +9,6 @@
 
 ### いろいろmemo 
 
-- [Jekyll](https://jekyllrb.com/).
-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Jekyll](https://jekyllrb.com/)
+- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [documentation](https://help.github.com/categories/github-pages-basics/)
